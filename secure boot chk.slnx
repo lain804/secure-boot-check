@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="secure boot chk.vcxproj" Id="f3ab10ac-8b03-4e5f-be20-1a5c41192fd7" />
+</Solution>
