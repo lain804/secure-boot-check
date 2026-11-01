@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+    <BuildType Name="ReleaseStatic" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="secure boot check.vcxproj" Id="00e3a681-050a-46bc-8a1d-d77ac0543bd2" />
+</Solution>

@@ -1,0 +1,16 @@
+*
+
+!*/
+
+!*.slnx
+!*.vcxproj
+!*.vcxproj.filters
+
+!*.props
+
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+!.gitignore
