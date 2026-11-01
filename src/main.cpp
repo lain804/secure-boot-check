@@ -1,7 +1,9 @@
+// awesome NT header files from the process hacker team
+// https://github.com/winsiderss/phnt
 #define PHNT_VERSION PHNT_WINDOWS_10
 
-#include <lainwinutils/phnt/phnt_windows.h>
-#include <lainwinutils/phnt/phnt.h>
+#include <phnt_windows.h>
+#include <phnt.h>
 
 #include <cstdint>
 #include <string>
